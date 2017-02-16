@@ -1,0 +1,39 @@
+{
+  "name": "tweet-battle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogergui3000/tweet-battle.git"
+  },
+  "keywords": [
+    "React",
+    "application",
+    "demo"
+  ],
+  "author": "Mekeidje Roger <rogergui3000@gmail.com> (http://mekeidjeroger.comli.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogergui3000/tweet-battle/issues"
+  },
+  "homepage": "https://github.com/rogergui3000/tweet-battle#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^2.0.0-rc5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.1",
+    "babel-preset-react": "^6.23.0",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
