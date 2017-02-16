@@ -1,9 +1,9 @@
-# tweet-battle
+# GitHub-battle-profile
 
 
 
 
-![GitHub Logo](logo.png)
+![GitHub battle](logo.png)
 
 
 
